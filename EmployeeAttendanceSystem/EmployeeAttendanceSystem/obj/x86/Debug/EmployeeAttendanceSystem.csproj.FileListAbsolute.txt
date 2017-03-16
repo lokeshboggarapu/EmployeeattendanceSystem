@@ -1,0 +1,38 @@
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\WindowsFormsApplication3.exe.config
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\WindowsFormsApplication3.exe
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\WindowsFormsApplication3.pdb
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\AForge.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\AForge.Video.DirectShow.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\AForge.Video.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\itextsharp.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\itextsharp.pdfa.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\itextsharp.xmlworker.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\MetroFramework.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\MetroFramework.Fonts.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\System.Data.DataSetExtensions.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\System.Data.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\System.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\Zen.Barcode.Core.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\zxing.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\zxing.presentation.dll
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\AForge.xml
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\AForge.Video.xml
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\AForge.Video.DirectShow.xml
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\zxing.pdb
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\zxing.xml
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\zxing.presentation.pdb
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\bin\x86\Debug\zxing.presentation.xml
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\EmployeeAttendanceSystem.csprojResolveAssemblyReference.cache
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\EmployeeAttendanceSystem.csproj.ResolveComReference.cache
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Registration.resources
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\SCANNING_BARCODE_QRCODE_USING_WEBCAM.Form3.resources
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Reporting.resources
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\EmployeeAttendanceSystem.csproj.GenerateResource.Cache
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendance System\Submission\Source Code\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendanceSystem\Submission\Source Code\EmployeeAttendanceSystem\WindowsFormsApplication3\bin\x86\Debug\WindowsFormsApplication3.exe.config
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendanceSystem\Submission\Source Code\EmployeeAttendanceSystem\WindowsFormsApplication3\obj\x86\Debug\EmployeeAttendanceSystem.csproj.ResolveComReference.cache
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendanceSystem\Submission\Source Code\EmployeeAttendanceSystem\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\UCM GRAD\THIRD SEM\Software Engineering\EmployeeAttendanceSystem\Submission\Source Code\EmployeeAttendanceSystem\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
